@@ -1,0 +1,64 @@
+/* selector
+selector {
+    propiedad: valor;
+} */
+
+.paragraph {
+    color: blue;
+}
+
+/* class - se puede reutilizar*/
+
+/* ID - solo se puede usar una vez*/
+#lorem {
+    background-color: khaki;
+}
+
+/* header */
+
+#header-home nav ul .lista li {
+    list-style-type: decimal;
+}
+
+#header-home nav ul .lista {
+    background-color: khaki;
+}
+
+#header-home nav {
+    padding: 20px;
+}
+
+
+
+
+/* fin header */
+
+/* seccion uno */
+
+.paragraph-principal,
+.social {
+    color: black;
+    background-color: blue;
+}
+
+.social {
+    text-decoration: none;
+    font-size: 40px;
+    color: lightseagreen;
+    letter-spacing: 4px;
+}
+
+body {
+    background-image: url(images/perro.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.section-one {
+    background-image: url(images/perro.jpg);
+    background-color: #808080;
+}
+
+
+
