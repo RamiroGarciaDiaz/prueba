@@ -16,6 +16,10 @@ selector {
 
 /* header */
 
+header {
+    background-color: black;
+}
+
 #header-home nav ul .lista li {
     list-style-type: decimal;
 }
